@@ -18,4 +18,4 @@
 
 ## The data was unbalanced, therefore there is one day that has about 3 times more purchases than any other day. To possibly counteract that, I should have found the day of the week that appeared the most rather than the amount of purchases in a single day. 
 
-
+## I finally created a dashboard on Tableau so I could analyze the relationship between date v. revenue value and date v. minutes user spent on website. From this, I found out that there is not a strong correlation between the two.
